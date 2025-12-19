@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there 👋, I'm Abhay Sandip Golande
 
-<!--
-**golandeabhay947-create/golandeabhay947-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Information Technology Engineering Student**  
+💻 **Frontend Developer** | Learning **Full Stack (MERN)**  
+🚀 Passionate about building interactive web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 IT Engineering student with strong fundamentals in programming  
+- 🌐 Frontend-focused developer (HTML, CSS, JavaScript)  
+- ⚛️ Currently learning **React.js** and **Node.js**  
+- 🧠 Interested in Full Stack Web Development  
+- 🛠️ Love building real-world and academic projects  
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** JavaScript, Java, C, C++  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Learning:** React.js, Node.js, Express.js  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+- **Simon Says Game**  
+  JavaScript-based memory game with increasing difficulty levels.
+
+- **Spotify Clone**  
+  Responsive frontend clone using only HTML & CSS.
+
+- **Bus Reservation System**  
+  Java Swing + MySQL desktop application using OOP concepts.
+
+- **OpenGL Graphics Programs**  
+  Implemented Bresenham algorithms, transformations & clipping in C++.
+
+---
+
+## 🌱 Currently Learning
+- React.js (Hooks, Components)  
+- Node.js & Backend Fundamentals  
+- Full Stack MERN Development  
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: golandeabhay947@gmail.com  
+- 💼 LinkedIn:| linkedin.com/in/abhay-golande-533899328 
+- 🧑‍💻 GitHub: https://github.com/golandeabhay947
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
