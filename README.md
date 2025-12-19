@@ -48,7 +48,7 @@
 
 ## 🌐 Connect With Me
 - 📧 Email: golandeabhay947@gmail.com  
-- 💼 LinkedIn:| linkedin.com/in/abhay-golande-533899328 
+- 💼 LinkedIn:www.linkedin.com/in/abhay-golande-533899328
 - 🧑‍💻 GitHub: https://github.com/golandeabhay947
 
 ---
